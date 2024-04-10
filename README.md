@@ -1,7 +1,7 @@
 # Maquette de Site Web MegaStore Apple
 
-Ce dépôt contient les fichiers de réalisation de la maquette du site web MegaStore Apple, développé dans le cadre d'un projet de conception d'un site web pour une entreprise spécialisée dans la vente de matériel Apple. Il devrait y avoir une vidéo mais elle dépasse largement 25 mb. Voici le lien youtube de la vidéo: [
-](https://youtu.be/aAr40c2FmqA)
+Ce dépôt contient les fichiers de réalisation de la maquette du site web MegaStore Apple, développé dans le cadre d'un projet de conception d'un site web pour une entreprise spécialisée dans la vente de matériel Apple. Il devrait y avoir une vidéo mais elle dépasse largement 25 mb. Voici le lien youtube de la vidéo: 
+https://youtu.be/aAr40c2FmqA
 
 ##Contenu
 
